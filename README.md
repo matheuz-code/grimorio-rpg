@@ -16,7 +16,7 @@ Sem multiplayer, contas, nuvem, backend, sistema de combate ou importação de b
 
 ## Publicação
 
-Pendente de autorização direta no chat, conforme bloqueio de novos repositórios públicos. Repositório pretendido: `matheuz-code/grimorio-rpg`. A prévia técnica não é apresentada como aplicação pública concluída.
+Demonstração pública: https://matheuz-code.github.io/grimorio-rpg/ — validada em 30/10/2026: campanha, personagem, atributo inválido, inventário, notas, persistência, dados e lixeira com restauração.
 
 ## Captura da prévia técnica
 
